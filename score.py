@@ -1,1 +1,1 @@
-score_record = 20
+score_record = 0
