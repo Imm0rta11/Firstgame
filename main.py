@@ -66,7 +66,7 @@ fonts = pygame.font.Font('fonts/PressStart2P-Regular.ttf', 15)
 lose_text = fonts.render('You lose!', False, (0, 0, 0))
 retry_text = fonts.render('Press ENTER for retry', False, (0, 0, 0))
 
-main_menu = fonts.render('MY FIRST GAME', False, (0, 0, 0))
+main_menu = fonts.render('Jumper', False, (0, 0, 0))
 main_text = fonts.render('Press ENTER for start', False, (0, 0, 0))
 main_text1 = fonts.render('Press ESC to exit', False, (0, 0, 0))
 
